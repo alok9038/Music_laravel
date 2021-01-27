@@ -8,7 +8,7 @@
                 <div class="col-lg-3">
                     <div class="card border-0 bg-transparent shadow" style="height:230px; border-radius:25px;">
                         <div class="card-body p-0">
-                            <img src="{{ asset('public/tracK_cover/'.$track->track_cover) }}" class="img-fluid h-100 w-100" alt="" style="object-fit: cover;border-radius:25px;">
+                            <img src="{{ asset('public/track_cover/'.$track->track_cover) }}" class="img-fluid h-100 w-100" alt="" style="object-fit: cover;border-radius:25px;">
                         </div>
                     </div>
                     <div class="head h4 text-white mt-5">Artist</div>
